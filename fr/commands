@@ -1,1 +1,1 @@
-*HELLO WORLD*==say "Hello World"
+*ENVOI*EMAIL*DE*TEST*==jv_pg_es_send_email $var_jv_pg_es_receivers_1 "Sujet du mail" "Ceci est le message du mail !"
