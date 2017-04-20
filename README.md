@@ -1,7 +1,7 @@
 ## Description
 Send email with Jarvis (base for other plugins)
 
-<img src="https://raw.githubusercontent.com/QuentinCG/jarvis-email-sender/master/presentation.jpg">
+<img src="https://raw.githubusercontent.com/QuentinCG/jarvis-email-sender/master/presentation.png">
 
 
 ## Usage
