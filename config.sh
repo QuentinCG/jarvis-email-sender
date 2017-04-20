@@ -6,6 +6,5 @@ var_jv_pg_es_password="password"
 var_jv_pg_es_from_address="dummyfromaddress@domain.com"
 var_jv_pg_es_from_name="Name of from address"
 
-# List of receivers (used in command file)
-var_jv_pg_es_receivers_1="[['receiver1@domain.com', 'Receiver 1'], ['receiver2@domain.com', 'Receiver 2']]"
-# ...
+# List of receivers (used in command file for the example)
+var_jv_pg_es_receivers_example="[['receiver1@domain.com', 'Receiver 1'], ['receiver2@domain.com', 'Receiver 2']]"
