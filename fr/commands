@@ -1,2 +1,2 @@
-*ENVOI*MAIL*EXEMPLE*==jv_pg_es_send_email "$var_jv_pg_es_receivers_example" "Coucou de Jarvis" "Ceci est un mail de test envoyé par votre serviteur Jarvis" "[]" "[]"
-*ENVOI*MAIL*AVEC*PIECE*JOINTE*==jv_pg_es_send_email "$var_jv_pg_es_receivers_example" "Coucou de Jarvis" "Ceci est un mail de test envoyé par votre serviteur Jarvis" "$var_jv_pg_es_attachements_example" "$var_jv_pg_es_images_example"
+*ENVOI*MAIL*EXEMPLE*==jv_pg_es_send_email "$var_jv_pg_es_receivers_example" "Coucou de Jarvis" "Ceci est un mail de test envoyé par votre serviteur Jarvis" "[]"
+*ENVOI*MAIL*AVEC*PIECE*JOINTE*==jv_pg_es_send_email "$var_jv_pg_es_receivers_example" "Coucou de Jarvis" "Ceci est un mail de test envoyé par votre serviteur Jarvis" "$var_jv_pg_es_attachements_example"

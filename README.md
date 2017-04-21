@@ -10,9 +10,9 @@ You: Envoies le mail d'exemple
 Jarvis: Mail envoyé.
 [Mail avec uniquement du texte envoyé]
 
-You: Envoies un mail avec une pièce jointe
+You: Envoies un mail avec pièces jointes
 Jarvis: Mail envoyé.
-[Mail avec du texte, une image et une pièce jointe envoyé]
+[Mail avec du texte, une image et un fichier texte en pièces jointes envoyé]
 ```
 
 

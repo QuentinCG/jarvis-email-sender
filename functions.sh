@@ -5,11 +5,10 @@
 # $2 (string): Subject
 # $3 (string): Message
 # $4 (string): Attachement files (example: "[\"/tmp/test.pdf\", \"/tmp/test2.avi\")
-# $5 (string): Attachement pictures (example: "[\"/tmp/test.jpg\", \"/tmp/test2.gif\")
 jv_pg_es_send_email()
 {
   # Send request to SMTP server
-  result=`python3 plugins/jarvis-email-sender/script/send_email.py --host "$var_jv_pg_es_host" --port $var_jv_pg_es_port --usingTls "$var_jv_pg_es_using_tls" --username "$var_jv_pg_es_username" --password "$var_jv_pg_es_password" --fromAddr "$var_jv_pg_es_from_address" --fromName "$var_jv_pg_es_from_name" --toAddressesAndNames "$1" --subject "$2" --message "$3" --attachements "$4" --images "$5"`
+  result=`python3 plugins/jarvis-email-sender/script/send_email.py --host "$var_jv_pg_es_host" --port $var_jv_pg_es_port --usingTls "$var_jv_pg_es_using_tls" --username "$var_jv_pg_es_username" --password "$var_jv_pg_es_password" --fromAddr "$var_jv_pg_es_from_address" --fromName "$var_jv_pg_es_from_name" --toAddressesAndNames "$1" --subject "$2" --message "$3" --attachements "$4"`
 
   # Show the result to user
   if [[ $result =~ "Send email: True" ]]; then
