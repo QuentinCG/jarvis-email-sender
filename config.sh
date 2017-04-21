@@ -6,5 +6,7 @@ var_jv_pg_es_password="password"
 var_jv_pg_es_from_address="dummyfromaddress@domain.com"
 var_jv_pg_es_from_name="Name of from address"
 
-# List of receivers (used in command file for the example)
-var_jv_pg_es_receivers_example="[['receiver1@domain.com', 'Receiver 1'], ['receiver2@domain.com', 'Receiver 2']]"
+# List of receivers, attachements and images (used in command file for the example, can be deleted if command file modified)
+var_jv_pg_es_receivers_example="[[\"receiver1@domain.com\", \"Receiver 1\"], [\"receiver2@domain.com\", \"Receiver 2\"]]"
+var_jv_pg_es_attachements_example="[\"receiver1@domain.com\"]"
+var_jv_pg_es_images_example="[\"receiver1@domain.com\"]"
