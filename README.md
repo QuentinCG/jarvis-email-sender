@@ -1,18 +1,24 @@
 ## Description
 Send email with Jarvis (base for other plugins)
 
-<img src="https://raw.githubusercontent.com/QuentinCG/jarvis-email-sender/master/presentation.png">
+<img src="https://raw.githubusercontent.com/QuentinCG/jarvis-email-sender/master/presentation.png" width="200">
 
 
 ## Usage
 ```
 You: Envoies le mail d'exemple
 Jarvis: Mail envoyé.
-[Mail avec uniquement du texte envoyé]
+[Mail envoyé avec uniquement du texte
+
+You: Envoies le mail d'exemple discrètement
+[Mail envoyé avec uniquement du texte
 
 You: Envoies un mail avec pièces jointes
 Jarvis: Mail envoyé.
-[Mail avec du texte, une image et un fichier texte en pièces jointes envoyé]
+[Mail envoyé avec du texte, une image et un fichier texte en pièces jointes]
+
+You: Envoies un mail avec pièces jointes discrètement
+[Mail envoyé avec du texte, une image et un fichier texte en pièces jointes]
 ```
 
 
