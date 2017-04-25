@@ -8,10 +8,10 @@ Send email with Jarvis (base for other plugins)
 ```
 You: Envoies le mail d'exemple
 Jarvis: Mail envoyé.
-[Mail envoyé avec uniquement du texte
+[Mail envoyé avec uniquement du texte]
 
 You: Envoies le mail d'exemple discrètement
-[Mail envoyé avec uniquement du texte
+[Mail envoyé avec uniquement du texte]
 
 You: Envoies un mail avec pièces jointes
 Jarvis: Mail envoyé.
