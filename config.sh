@@ -8,4 +8,4 @@ var_jv_pg_es_from_name="Name of from address"
 
 # List of receivers, attachements files (used in command file for the example, can be deleted if command file modified)
 var_jv_pg_es_receivers_example="[[\"receiver1@domain.com\", \"Receiver 1\"], [\"receiver2@domain.com\", \"Receiver 2\"]]"
-var_jv_pg_es_attachements_example="[\"plugins/jarvis-email-sender/README.md\", \"plugins/jarvis-email-sender/presentation.png\"]]"
+var_jv_pg_es_attachements_example="[\"plugins_installed/jarvis-email-sender/README.md\", \"plugins_installed/jarvis-email-sender/presentation.png\"]]"
