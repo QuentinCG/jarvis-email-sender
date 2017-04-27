@@ -24,7 +24,7 @@ You: Envoies un mail avec pièces jointes discrètement
 
 ## How to install
 
-1) Add this plugin in <a target="_blank" href="http://domotiquefacile.fr/jarvis/content/plugins">Jarvis project</a> (be sure to have <a target="_blank" href="https://github.com/alexylem/jarvis-api">Jarvis API plugin</a> too)
+1) Add this plugin to your Jarvis assistant (<a target="_blank" href="http://domotiquefacile.fr/jarvis/content/plugins">more info here</a>): ```./jarvis.sh -p https://github.com/QuentinCG/jarvis-email-sender```
 
 2) Configure the <a target="_blank" href="https://github.com/QuentinCG/jarvis-email-sender/blob/master/config.sh">configuration file</a> to match your requirements.
 
