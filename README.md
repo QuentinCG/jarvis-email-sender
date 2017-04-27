@@ -1,7 +1,7 @@
 ## Description
 Send email with Jarvis (base for other plugins)
 
-<img src="https://raw.githubusercontent.com/QuentinCG/jarvis-email-sender/master/presentation.png" width="200">
+<img src="https://raw.githubusercontent.com/QuentinCG/jarvis-email-sender/master/presentation.png" width="100">
 
 
 ## Usage
@@ -28,7 +28,7 @@ You: Envoies un mail avec pièces jointes discrètement
 
 2) Configure the <a target="_blank" href="https://github.com/QuentinCG/jarvis-email-sender/blob/master/config.sh">configuration file</a> to match your requirements.
 
-3) Use the "jv_pg_es_send_email" function in any other plugin (or in this one).
+3) Use the ```jv_pg_es_send_email``` function in any other plugin or in this one (check examples in command file).
 
 4) Enjoy
 
