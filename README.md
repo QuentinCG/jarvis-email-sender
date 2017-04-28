@@ -1,5 +1,5 @@
 ## Description
-Send email with <a target="_blank" href="http://domotiquefacile.fr/jarvis/">Jarvis assistant</a> (base for other plugins)
+Send email (message and attachments) with <a target="_blank" href="http://domotiquefacile.fr/jarvis/">Jarvis assistant</a> (base for other plugins).
 
 <img src="https://raw.githubusercontent.com/QuentinCG/jarvis-email-sender/master/presentation.png" width="100">
 
